@@ -7,5 +7,5 @@ ALIVE / Categorised java topics.
 Run locally:
 
 ```
-mvn clean build                   // build application
+TODO
 ```
