@@ -1,6 +1,6 @@
-## STATUS
+## STATUS / ABOUT
 
-GITLAB project is master.
+ALIVE / Categorised java topics.
 
 ## Commands
 
@@ -8,9 +8,4 @@ Run locally:
 
 ```
 mvn clean build                   // build application
-```
-
-Test the REST endpoint:
-```
-curl -X GET -H 'Content-Type: application/json' "http://localhost:8080/xxx"
 ```
