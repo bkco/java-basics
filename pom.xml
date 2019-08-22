@@ -98,27 +98,27 @@
 	</dependency>
 	 
 	<!-- Oracle spatial jars for the "reflection" example -->
-	<dependency>
-	  <groupId>com.oracle</groupId>
-	  <artifactId>sdoutl</artifactId>
-	  <version>1.0</version>
-	  <scope>compile</scope>
-	</dependency>
-	 
-	 <dependency>
-	  <groupId>com.oracle</groupId>
-	  <artifactId>sdoutl</artifactId>
-	  <version>11.2.0</version>
-	  <scope>compile</scope>
-	</dependency>
+<!--	<dependency>-->
+<!--	  <groupId>com.oracle</groupId>-->
+<!--	  <artifactId>sdoutl</artifactId>-->
+<!--	  <version>1.0</version>-->
+<!--	  <scope>compile</scope>-->
+<!--	</dependency>-->
+
+<!--	 <dependency>-->
+<!--	  <groupId>com.oracle</groupId>-->
+<!--	  <artifactId>sdoutl</artifactId>-->
+<!--	  <version>11.2.0</version>-->
+<!--	  <scope>compile</scope>-->
+<!--	</dependency>-->
 
 
-	<dependency>
-	  <groupId>com.oracle</groupId>
-	  <artifactId>sdoapi</artifactId>
-	  <version>11.2.0</version>
-	  <scope>compile</scope>
-	</dependency>
+<!--	<dependency>-->
+<!--	  <groupId>com.oracle</groupId>-->
+<!--	  <artifactId>sdoapi</artifactId>-->
+<!--	  <version>11.2.0</version>-->
+<!--	  <scope>compile</scope>-->
+<!--	</dependency>-->
 
   	<dependency>
 	  <groupId>org.apache.oltu.oauth2</groupId>
@@ -130,7 +130,7 @@
 	<dependency>
 	  <groupId>org.projectlombok</groupId>
 	  <artifactId>lombok</artifactId>
-      <version>1.16.8</version>
+      <version>1.16.22</version>
 	</dependency>
 
 	  <dependency>
